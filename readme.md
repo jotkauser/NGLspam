@@ -8,6 +8,9 @@ A easy to use script that can spam ngl.link inboxes
 - Install packages (npm i)
 - Run it with `node .`
   
+# info
+im too lazy to implement auto stop so.
+
 # Custom messages
 Add these to messages.txt file
 
