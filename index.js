@@ -11,7 +11,7 @@ var randomizeUUID = true;
 // data
 var username = "Not set";
 var message = "Not set";
-var gameslug = "" || "Default";
+var gameslug = ""
 var amount = 0;
 // splash
 const splash = `
@@ -156,7 +156,7 @@ function spam(username, amount, randomizeUUID, sendFromMessageFile, message) {
 				username: username,
 				question: messagesFile[Math.floor(Math.random() * messagesFile.length)],
 				deviceId: uuid,
-				gameSlug: gameslug
+				gameSlug: gameslug || ""
 			}).then(res => {
 				console.log(`${"[+]".green} Sent message no. ${howManySent}`)
 			})
