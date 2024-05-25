@@ -41,6 +41,7 @@ function mainMenu() {
 	const input = prompt("> ")
 	if (input == "2") return optionsMenu();
 	if (input == "1") return spamMenu();
+	if (input == "3") return process.exit();
 }
 function optionsMenu() {
 	clearAndSplash();
