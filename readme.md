@@ -1,21 +1,27 @@
+<p align="center">
+	<img src="./assets/nglspam.png" width=360 height=201>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/github/stars/jotkauser/nglspam?style=for-the-badge">
+</p>
+
 # NGLspam
-A easy to use script that can spam ngl.link inboxes
+NGLspam is a easy to use ngl.link spammer. Annoy your friends that has a ngl.link inbox!
 
-# How to install?
-- Install [node.js](https://nodejs.org/dist/v20.12.2/node-v20.12.2-x64.msi)
-- Clone this repo 
-- Open terminal
-- Install packages (npm i)
-- Run it with `node .`
-  
-# info
-im too lazy to implement auto stop so.
+# Why it's annoying?
+You will get constant notifications about a new question if you have enabled notifications. 
 
-# Custom messages
-Add these to messages.txt file
+# **READ THIS**
+By doing this you violate ngl.link Terms Of Service. And you might get punched by your friend. You use it at your own risk.
 
-# Cooldown
-I recommend 5000ms cuz it wont ratelimit you :)
+# Installation tutorial
+- Install [node.js](https://nodejs.org/en/)
+- Download this [repo](https://github.com/jotkauser/NGLspam/archive/refs/heads/main.zip)
+- Install packages with `npm i`
+- Run `npm start` and start spamming!
 
-# Credits
-created by realmotylek
+# Bugs
+Report bugs on the [Issues](https://github.com/jotkauser/NGLspam/issues) tab.
+
+# Help
+Telegram: [@realmotylek](https://t.me/realmotylek)

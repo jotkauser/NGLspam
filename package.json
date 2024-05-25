@@ -1,14 +1,14 @@
 {
-  "name": "NGLspam",
+  "name": "nglspam",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
     "axios": "^1.6.8",
     "colors": "^1.4.0",
