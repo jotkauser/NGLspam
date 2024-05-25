@@ -6,7 +6,7 @@
 </p>
 
 # NGLspam
-NGLspam is a easy to use ngl.link spammer. Annoy your friends that has a ngl.link inbox!
+NGLspam is a easy to use ngl.link spammer. Annoy your friends who has a ngl.link inbox!
 
 # Why it's annoying?
 You will get constant notifications about a new question if you have enabled notifications. 
